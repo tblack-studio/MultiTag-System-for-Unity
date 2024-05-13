@@ -16,12 +16,12 @@ This package allows you to Tag Game Objects with ScriptableObjects.
 ## How to Install
 ### Git Installation (Best way to get latest version)
 
-If you have Git on your computer, you can open Package Manager indside Unity, select "Add package from Git url...", and paste link ```https://github.com/IntoTheDev/MultiTag-System-for-Unity.git```
+If you have Git on your computer, you can open Package Manager indside Unity, select "Add package from Git url...", and paste link ```https://github.com/tblack-studio/MultiTag-System-for-Unity.git```
 
 or
 
 Open the manifest.json file of your Unity project.
-Add ```"com.intothedev.multitags": "https://github.com/IntoTheDev/MultiTag-System-for-Unity.git"```
+Add ```"com.intothedev.multitags": "https://github.com/tblack-studio/MultiTag-System-for-Unity.git"```
 
 ### Manual Installation (Version can be outdated)
 Download latest package from the Release section.
